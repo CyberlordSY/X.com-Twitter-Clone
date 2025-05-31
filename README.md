@@ -22,7 +22,7 @@ This project is built using:
 
 - 🧱 **HTML5** – Semantic and structured layout.
 - 🎨 **Tailwind CSS** – Utility-first framework for fast and responsive design.
-- ⚡ **No JavaScript** – Purely a static front-end UI clone.
+- ⚡ No JavaScript – Purely a static front-end UI clone.
 
 ---
 
